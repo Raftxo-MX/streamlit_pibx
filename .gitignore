@@ -1,1 +1,8 @@
 ws_venv/
+*.pdf
+*.pptx
+ENACOM.ipynb
+*.pbix
+panel_bokeh.ipynb
+pantorno.yml
+Visualizaciones.ipynb
